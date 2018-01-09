@@ -1,0 +1,85 @@
+.gif{
+	float: left;
+	color: silver;
+}
+
+body{
+	background: url("https://wallpaperscraft.com/image/michael_jackson_suit_hat_dance_colors_3675_1280x960.jpg")
+	
+}
+
+.jumbotron {
+	background-color: transparent;
+	font-family: 'Patua One', cursive;
+	color: darkblue;
+
+	
+}
+
+h1{
+	font-size: 48px
+}
+
+label{
+	font-family: 'Noticia Text', serif;
+	font-size: 20px;
+	font-weight: bold;
+	color:darkblue;
+}
+/*.dance{
+	margin: 4px 2px;
+	color: #202129;
+  background-color: #f2f2f2;
+ } 
+ .dance:hover {
+    color: #202129;
+    background-color: #e1e2e2;
+    opacity: 1;
+  }
+  
+ .danece:active {
+    background-color: #d5d6d6;
+    opacity: 1;
+}
+*/
+#add-dance{ 
+	margin: 4px 2px;
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: darkblue;
+  background-color: #f2f2f2;
+  border: none;
+
+}
+.dance {
+  
+  margin: 4px 2px;
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: darkblue;
+  background-color: #f2f2f2;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.dance:hover {
+	background-color: #202129
+
+
+}
+.dance:active {
+  background-color: #202129;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
