@@ -74,7 +74,7 @@ function displayContentInfo() {
         });
 
         // Prependng the contentDiv to the HTML page in the "#gifs-appear-here" div
-        $("#dance-content").prepend(contentDiv);
+ //       $("#dance-content").prepend(contentDiv);
 
 
     })
